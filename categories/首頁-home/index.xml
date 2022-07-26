@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首頁-Home on SYHPAN&#39;s website</title>
+    <link>https://syhpan.github.io/categories/%E9%A6%96%E9%A0%81-home/</link>
+    <description>Recent content in 首頁-Home on SYHPAN&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Apr 2021 07:28:30 +0000</lastBuildDate><atom:link href="https://syhpan.github.io/categories/%E9%A6%96%E9%A0%81-home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my personal website!</title>
+      <link>https://syhpan.github.io/posts/home/</link>
+      <pubDate>Mon, 12 Apr 2021 07:28:30 +0000</pubDate>
+      
+      <guid>https://syhpan.github.io/posts/home/</guid>
+      <description>Yangmingshan National Park</description>
+    </item>
+    
+  </channel>
+</rss>
