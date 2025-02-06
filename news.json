@@ -5,60 +5,60 @@
       "date": "Oct. 28, 2024",
       "title": "Phonological interaction between <om> infixation and reduplication in Saisiyat (賽夏語<om>中綴與重疊構詞之間的音韻互動)",
       "conference": "NCL25",
-      "link": "https://itllt3601.wixsite.com/ncl25/",
+      "link": "https://itllt3601.wixsite.com/ncl25/"
     },
     {
       "date": "Jun. 20-25, 2024",
       "title": "Morphophonological alternations of stems with final /g/ in Tgdaya Seediq: An OT account",
       "conference": "16-ICAL",
-      "link": "https://www.lsphil.net/16ical",
+      "link": "https://www.lsphil.net/16ical"
     },
     {
       "date": "Oct. 28, 2023",
       "title": "A Linguistic Analysis of the Plains Indigenous Song \"The Marrying Song of Douliumen Tribe\" during the Qing Dynasty (清代平埔歌謠〈斗六門社娶妻自誦歌〉之語言成分試析)",
       "conference": "NCL 2023",
-      "link": "https://linguist.tw/zh-tw/events/ncls",
+      "link": "https://linguist.tw/zh-tw/events/ncls"
     },
     {
       "date": "Oct. 13, 2023",
       "title": "A preliminary study of CCV(C) root in Saisiyat and Bunun: Synchronic and Diachronic Analysis (試論賽夏語和布農語的CCV(C)詞根:共時與歷時分析)",
       "conference": "YSSTL8",
-      "link": "https://sites.google.com/view/ysstl8/",
+      "link": "https://sites.google.com/view/ysstl8/"
     },
     {
       "date": "May. 16-18, 2023",
       "title": "Reexamining the Puzzle of Proto-Austronesian *S: An Early Contact Account",
       "conference": "SEALS 2023",
-      "link": "https://www.facebook.com/p/SEALS-2023-100085171447724/",
+      "link": "https://www.facebook.com/p/SEALS-2023-100085171447724/"
     },
     {
       "date": "Sep. 3-4, 2022",
       "title": "The historical relationships of languages in northwest Taiwan reconsidered",
       "conference": "HRESAL 2022",
-      "link": "https://sites.google.com/view/hresal-2022/home",
+      "link": "https://sites.google.com/view/hresal-2022/home"
     },
     {
       "date": "Aug. 16-19, 2022",
-      "title": "l'Atelier pour Jeunes Traducteurs (法語新手譯者營)",
-      "conference": "ATTF",
-      "link": "https://www.attf.tw/",
       "verb": "Attended",
-      "preposition": "by"
+      "title": "l'Atelier pour Jeunes Traducteurs (法語新手譯者營)",
+      "preposition": "by",
+      "conference": "ATTF",
+      "link": "https://www.attf.tw/"
     },
     {
       "date": "May. 23, 2022",
+      "verb": "Finished",
       "title": "Finished substitute military service",
       "conference": "Mayuan Elementary School (馬遠國小), Wanrong, Hualien",
-      "link": "http://www.myups.hlc.edu.tw/",
-      "verb": "Finished"
+      "link": "http://www.myups.hlc.edu.tw/"
     },
     {
       "date": "May. 7-8, 14, 21-22, 2022",
-      "title": "Training of Support Staff for Indigenous Languages Teaching (原住民族語教學支援工作人員師資培訓)",
-      "conference": "Indigenous Education Resources Center, Hualien",
-      "link": "https://hlierc-hlc.tw/",
       "verb": "Attended",
-      "preposition": "by"
+      "title": "Training of Support Staff for Indigenous Languages Teaching (原住民族語教學支援工作人員師資培訓)",
+      "preposition": "by",
+      "conference": "Indigenous Education Resources Center, Hualien",
+      "link": "https://hlierc-hlc.tw/"
     }
   ]
 }
