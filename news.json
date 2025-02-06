@@ -1,27 +1,52 @@
 {
-  "lastUpdated": "Feb. 24, 2024",
+  "lastUpdated": "Feb. 6, 2025",
   "events": [
     {
       "date": "Oct. 28, 2023",
-      "title": "A Linguistic Analysis of the Plains Indigenous Song...",
+      "title": "A Linguistic Analysis of the Plains Indigenous Song \"The Marrying Song of Douliumen Tribe\" during the Qing Dynasty (清代平埔歌謠〈斗六門社娶妻自誦歌〉之語言成分試析)",
       "conference": "NCL 2023",
       "link": "https://linguist.tw/zh-tw/events/ncls",
-      "verb": "Presented",
-      "preposition": "at"
     },
     {
       "date": "Oct. 13, 2023",
-      "title": "A preliminary study of CCV(C) root in Saisiyat...",
+      "title": "A preliminary study of CCV(C) root in Saisiyat and Bunun: Synchronic and Diachronic Analysis (試論賽夏語和布農語的CCV(C)詞根:共時與歷時分析)",
       "conference": "YSSTL8",
       "link": "https://sites.google.com/view/ysstl8/",
-      "verb": "Discussed",
-      "preposition": "during"
+    },
+    {
+      "date": "May. 16-18, 2023",
+      "title": "Reexamining the Puzzle of Proto-Austronesian *S: An Early Contact Account",
+      "conference": "SEALS 2023",
+      "link": "https://www.facebook.com/p/SEALS-2023-100085171447724/",
+    },
+    {
+      "date": "Sep. 3-4, 2022",
+      "title": "The historical relationships of languages in northwest Taiwan reconsidered",
+      "conference": "HRESAL 2022",
+      "link": "https://sites.google.com/view/hresal-2022/home",
     },
     {
       "date": "Aug. 16-19, 2022",
-      "title": "l'Atelier pour Jeunes Traducteurs",
+      "title": "l'Atelier pour Jeunes Traducteurs (法語新手譯者營)",
       "conference": "ATTF",
-      "link": "https://www.attf.tw/"
+      "link": "https://www.attf.tw/",
+      "verb": "Attended",
+      "preposition": "by"
+    },
+    {
+      "date": "May. 23, 2022",
+      "title": "Finished substitute military service",
+      "conference": "Mayuan Elementary School (馬遠國小), Wanrong, Hualien",
+      "link": "http://www.myups.hlc.edu.tw/",
+      "verb": "Finished"
+    },
+    {
+      "date": "May. 7-8, 14, 21-22, 2022",
+      "title": "Training of Support Staff for Indigenous Languages Teaching (原住民族語教學支援工作人員師資培訓)",
+      "conference": "Indigenous Education Resources Center, Hualien",
+      "link": "https://hlierc-hlc.tw/",
+      "verb": "Attended",
+      "preposition": "by"
     }
   ]
 }
